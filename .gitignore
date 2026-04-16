@@ -1,2 +1,2 @@
-# .env (local only, never commit)
-GEMINI_API_KEY=
+.env
+env
